@@ -8,6 +8,10 @@
 
 body{
     background: #fff;
+    overflow-x: hidden;
+
+
+
 }
 
 /*nav bar*/
@@ -155,3 +159,11 @@ body{
 }
 
 .button4:hover {background-color: #e7e7e7;}
+
+/*main image in home*/
+#main{
+    position: relative;
+    bottom: 780px;
+    left: 600px;
+
+}
