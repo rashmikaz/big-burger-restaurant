@@ -9,9 +9,6 @@
 body{
     background: #fff;
     overflow-x: hidden;
-
-
-
 }
 
 /*nav bar*/
@@ -166,4 +163,38 @@ body{
     bottom: 780px;
     left: 600px;
 
+}
+
+/*burger section*/
+
+#main-burger-1{
+    position: relative;
+    bottom: 450px;
+}
+
+#main-burger-dec{
+    width: 350px;
+
+    position: relative;
+    left: 200px;
+}
+
+#main-burger-dec>h3{
+    font-family: "Alegreya Sans SC", serif;
+    font-weight: 500;
+    font-size: 70px;
+    color: #FFBC00;
+    font-style: normal;
+}
+#main-burger-dec>p{
+    font-family: "Alegreya Sans SC", serif;
+    font-weight: 500;
+    font-size: 30px;
+    font-style: normal;
+    padding-top: 40px;
+}
+#big-burger-special{
+    position: relative;
+    left: 700px;
+    bottom: 600px;
 }
