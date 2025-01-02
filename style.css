@@ -9,6 +9,9 @@
 body{
     background: #fff;
 }
+
+/*nav bar*/
+
 #logo{
     font-size: 45px;
     position: absolute;
@@ -21,8 +24,11 @@ body{
     left: 1250px;
 }
 
+
 /* Google Fonts Import Link */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Alfa+Slab+One&display=swap');
 *{
     margin: 0px;
     padding: 0px;
@@ -89,4 +95,27 @@ body{
 .nav-links li.forward a:hover:before{
     transform: scaleX(1);
     transform-origin: left;
+}
+
+/*main name*/
+
+#main-name{
+    width: 380px;
+}
+
+#main-name>h1{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 200;
+    font-size: 150px;
+    color: #FFBC00;
+    font-style: normal;
+}
+#main-name>p{
+    font-family: "Alegreya Sans SC", serif;
+    font-weight: 500;
+    font-size: 20px;
+    font-style: normal;
+
+    position: relative;
+    bottom: 40px;
 }
