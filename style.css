@@ -101,6 +101,10 @@ body{
 
 #main-name{
     width: 380px;
+
+    position: relative;
+    left: 100px;
+    bottom: 40px;
 }
 
 #main-name>h1{
@@ -122,6 +126,11 @@ body{
 
 /*button*/
 
+#first-button{
+    position: relative;
+    bottom: 30px;
+}
+
 .button {
     background-color: #04AA6D; /* Green */
     border: none;
@@ -134,6 +143,7 @@ body{
     margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
+
 }
 
 
