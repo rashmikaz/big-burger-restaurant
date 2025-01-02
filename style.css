@@ -273,3 +273,59 @@ body{
 
 
 }
+
+
+/*///////////////////////////*/
+
+
+#drinks-section{
+    position: relative;
+    bottom: 1600px;
+}
+
+.menu-container {
+    margin: 50px auto;
+    max-width: 800px;
+}
+
+.menu-container>h1 {
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    color: #ffd700;
+    font-family: "Alegreya Sans SC", serif;
+}
+
+.menus {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    width: 45%;
+}
+
+.column>ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.column>ul>li {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2em;
+    margin: 10px 0;
+
+}
+.column>ul>li>span{
+    font-family: "Alegreya Sans SC", serif;
+    font-size: 20px;
+
+}
+
+/*span {*/
+/*  display: inline-block;*/
+/*}*/
