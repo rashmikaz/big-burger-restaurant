@@ -198,3 +198,36 @@ body{
     left: 700px;
     bottom: 600px;
 }
+
+
+#main-burger-2-des{
+    width: 350px;
+
+    position: relative;
+    left: 900px;
+}
+
+#main-burger-2-des>h3{
+    font-family: "Alegreya Sans SC", serif;
+    font-weight: 500;
+    font-size: 70px;
+    color: #FFBC00;
+    font-style: normal;
+    line-height: 60px;
+}
+#main-burger-2-des>p{
+    font-family: "Alegreya Sans SC", serif;
+    font-weight: 500;
+    font-size: 30px;
+    font-style: normal;
+    padding-top: 40px;
+}
+#Bacon{
+    position: relative;
+    bottom: 700px;
+    left: 100px;
+}
+#main-burger-2{
+    position: relative;
+    bottom: 900px;
+}
