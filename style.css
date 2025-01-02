@@ -373,3 +373,89 @@ body{
 .think{
     font-weight: lighter;
 }
+
+/*/////////////////////////*/
+
+
+#prawns-crab{
+    position: relative;
+    bottom: 1400px;
+}
+.prawns-menu-container {
+    margin: 50px auto;
+    max-width: 600px;
+}
+
+.prawns-menu{
+    padding-top: 50px;
+}
+
+.prawns-menu-container>h1 {
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 5px;
+    color: #ffd700;
+    font-family: "Alegreya Sans SC", serif;
+}
+
+.prawns-menu-container>h2 {
+    font-size: 1.2em;
+    font-style: italic;
+    margin-bottom: 20px;
+    color: #ffd700;
+    font-family: "Alegreya Sans SC", serif;
+}
+
+.prawns-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.prawns-menu li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+}
+
+.item-number {
+    width: 10%;
+}
+
+.item-description {
+    width: 70%;
+    text-align: left;
+    font-family: "Alegreya Sans SC", serif;
+    font-size: 20px;
+}
+
+.sub-description {
+    font-size: 0.9em;
+    color: black;
+    font-family: "Alegreya Sans SC", serif;
+    font-size: 20px;
+
+}
+
+.item-price {
+    width: 20%;
+    text-align: right;
+
+    position: relative;
+    right: 190px;
+}
+
+#left-prawns{
+    position: relative;
+    right: 180px;
+}
+
+#right-crab{
+    position: relative;
+    bottom: 505px;
+    left: 360px;
+}
