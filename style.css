@@ -462,10 +462,18 @@ body{
 
 /*//////////*/
 
+#chef-message{
+    position: relative;
+    left: 250px;
+    bottom: 1800px;
+}
+
 #message{
     width: 30%;
 
-
+    position: relative;
+    left: 550px;
+    bottom: 550px;
 }
 
 #message>h1{
