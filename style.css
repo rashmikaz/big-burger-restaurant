@@ -459,3 +459,43 @@ body{
     bottom: 505px;
     left: 360px;
 }
+
+/*//////////*/
+
+#message{
+    width: 30%;
+
+
+}
+
+#message>h1{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 200;
+    font-size: 40px;
+    color: #FFBC00;
+    font-style: normal;
+
+}
+
+#message>p{
+    font-family: "Alegreya Sans SC", serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    line-height: 35px;
+}
+
+#message>h3{
+    font-family: "Alegreya Sans SC", serif;
+    font-size: 40px;
+    color: #FFBC00;
+    font-weight: inherit;
+}
+#chef-and-founder{
+    position: relative;
+    bottom: 20px;
+}
+#sign{
+
+
+}
