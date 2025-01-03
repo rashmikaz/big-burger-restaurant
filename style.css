@@ -133,7 +133,7 @@ body{
 }
 
 .button {
-    background-color: #04AA6D; /* Green */
+
     border: none;
     color: white;
     padding: 16px 32px;
@@ -506,4 +506,64 @@ body{
 #sign{
 
 
+}
+/*////////////////*/
+
+#about-history{
+    position: relative;
+    bottom: 2200px;
+}
+
+#about-us{
+    position: relative;
+    bottom: 450px;
+    left: 350px;
+}
+#about-us>h1{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 200;
+    font-size: 40px;
+    color: #FFBC00;
+    font-style: normal;
+
+}
+#about-us>p{
+    width: 30%;
+    font-family: "Alegreya Sans SC", serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+#about-us>button{
+
+}
+
+#our-history{
+    position: relative;
+    left: 900px;
+    bottom: 700px;
+}
+
+#our-history>h1{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 200;
+    font-size: 40px;
+    color: #FFBC00;
+    font-style: normal;
+}
+
+#our-history>p{
+    width: 30%;
+    font-family: "Alegreya Sans SC", serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+#knife-image{
+    position: relative;
+    left: 500px;
 }
